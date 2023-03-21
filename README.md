@@ -6,8 +6,18 @@
 4. Cloudinary: A cloud-based image storage service
 
 
-## Part I - Routing
+## Part I - FE Routing
 
 [x] - Create and import Components to route to
 [x] - Wrap app in BrowserRouter
 [x] - Add Links to routes in navbar and Routes to components in main
+
+## Part II - BE Routing
+
+[x] - Create simple instance of BE API: 
+  [x] - Start server
+  [x] - Connect MongoDB
+  [x] - Create post model to save them in database
+  [x] - Add post routes for creating and retrieving the posts
+  [x] - Add dalle routes to generate the data from the openai API 
+
