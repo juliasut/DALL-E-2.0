@@ -21,3 +21,6 @@
   [x] - Add post routes for creating and retrieving the posts
   [x] - Add dalle routes to generate the data from the openai API 
 
+## Part III - BE Storing A Post with an Image
+[x] - Add Cloudinary to store images and give image url
+[x] - Only store image urls in Post models in mongodb
