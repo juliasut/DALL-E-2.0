@@ -1,3 +1,11 @@
+## [Live Demo](https://dall-e-2-0-silk.vercel.app/)
+
+## Learning Objective:
+
+- Learn how to handle storing images in database
+- Learn using new third party API (openAI)
+- Learn new CSS framework
+
 ## Built using:
 
 1. Node.js, Express.js, MongoDB, and React.js together form the powerful MERN stack
@@ -28,3 +36,5 @@
 ## Deploy 
 
 BE is deployed on [Render](https://render.com/)
+FE is deployed on [Vercel](https://vercel.com/)
+Check it out [HERE](https://dall-e-2-0-silk.vercel.app/)
