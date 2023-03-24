@@ -24,3 +24,7 @@
 ## Part III - BE Storing A Post with an Image
 [x] - Add Cloudinary to store images and give image url
 [x] - Only store image urls in Post models in mongodb
+
+## Deploy 
+
+BE is deployed on [Render](https://render.com/)
